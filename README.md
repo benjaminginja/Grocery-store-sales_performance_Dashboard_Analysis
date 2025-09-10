@@ -85,8 +85,6 @@ By implementing the recommendations, the grocery store can achieve:
 * Better sales team efficiency, and
 * A broader product-market fit.
 
-This project demonstrates the power of **data visualization and analysis** in uncovering insights that drive business growth.
-
 ## ⚙️ Tools Used
 
 * **Microsoft Excel** – Data processing, analysis, and dashboard creation.
