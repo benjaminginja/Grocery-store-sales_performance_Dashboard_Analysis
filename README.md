@@ -63,7 +63,7 @@ The dashboard provides a visual summary of key sales metrics to support data-dri
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 1. **Maximize peak months** by introducing seasonal promotions and bundles.
 2. **Boost weak months** (Feb & Apr) with targeted campaigns, discounts, and customer engagement.
@@ -74,7 +74,7 @@ The dashboard provides a visual summary of key sales metrics to support data-dri
 
 ---
 
-## 📈 Conclusion
+## Conclusion
 
 The 2014 sales performance analysis highlights a business with **strong customer loyalty, high-value transactions, and standout sales staff**, but also reveals **seasonal dips, regional imbalances, and over-dependence on certain categories**.
 
@@ -87,14 +87,9 @@ By implementing the recommendations, the grocery store can achieve:
 
 This project demonstrates the power of **data visualization and analysis** in uncovering insights that drive business growth.
 
----
-
 ## ⚙️ Tools Used
 
 * **Microsoft Excel** – Data processing, analysis, and dashboard creation.
 
----
 
-👉 This README is suitable for your GitHub portfolio to showcase **data analysis + dashboarding skills**.
 
-Would you like me to also add a **“How to Use” section** (steps for anyone downloading your repo to view/run the dashboard) so it looks more like a professional open-source project?
